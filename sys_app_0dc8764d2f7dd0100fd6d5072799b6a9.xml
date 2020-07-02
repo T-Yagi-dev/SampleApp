@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_category>none</license_category>
+        <license_model>none</license_model>
+        <logo>19c87e092ff9d0100fd6d5072799b618</logo>
+        <menu/>
+        <name>SampleApp</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_503428_sampleapp</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Sample Aprication</short_description>
+        <source>x_503428_sampleapp</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 23:00:40</sys_created_on>
+        <sys_id>0dc8764d2f7dd0100fd6d5072799b6a9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-02 23:00:42</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/gif</content_type>
+        <file_name>yg_co.gif</file_name>
+        <hash>c2b4cd6662ee135d99db0c41b8fdb81bf09ad5f480500dd3b1b7f2de0d65ae6d</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>1450</size_bytes>
+        <size_compressed>1251</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 23:00:42</sys_created_on>
+        <sys_id>19c87e092ff9d0100fd6d5072799b618</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-07-02 23:00:42</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>0dc8764d2f7dd0100fd6d5072799b6a9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="yg_co.gif" sys_id="19c87e092ff9d0100fd6d5072799b618">19c87e092ff9d0100fd6d5072799b618</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 23:00:42</sys_created_on>
+        <sys_id>59c87e092ff9d0100fd6d5072799b618</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>RVN7bM9XFD9mXhvFulFbZZamYb0q41CPIp4rNjPjrpLNKzhWj9nWzMRYrnlOp4w0HOkSRTu9XlWpVLANk7Ee9Vvbm61DWTyHZcxjo5Kzr+2Pnf/OPcn5fM7n87kZw1/u1XvyJDDwF/xXCEAADCAAGr2DQTAEhsEIGAULYBEsgWWwAlbBATgER+AYnIBT8AAewRN4Bi/gFQJAQAgEgSEIBI12gyIogTKogEZNhI0IhMAIEs3QABpEQ2gYjaBRtIAW0RJaRitoFR2gQ3SEjtEJOkUP6BE9oWf0gl4xAAbEQBgYg2BQVEBFVEJlVEGNeERnIwERMIFEtMgAGSRDZJiMkFGyQBbJElkmK2SVHJBDckSOyQk5JQ/kkTyRZ/JCXikABaRAFJiCUFBSIEVSImVSIY0kiBRHBmJgBokUYQNskA2xYTbCRtkCW2RLbJmtsFV2wA7ZETtmJ+yUPbBH9sSe2Qt75QAckANxYA7CQVmBFVmJlVmFNVI/MhsFSIAFJDJDDIhBMSSGxYgYFQtiUSyJZbEiVsWBOBRH4liciFPxIB7Fk3gWL+JVAkhACSSBJYgEFQVRFCVRFhVRfRSEyI1IkohXNIyiYEANqiE1rEbUqFpQi2pJLasVtaoO1KE6UsfqRJ2qB/WontSzelGvGkADaiANrEE0PAKLgha5HUke3f0v+P/1wv3HGwA8hM6Pmkd/Apoq/NUscVjJpsOLm8anvH28pODo8lZJI/KH7dl8LCcBZ5w5vmfL96s7DF6ZOLx064l1ncb4t0+UFlasf2l8acMmu+qOc1qjquyM1ecPZtXWtauZXnk2Y2HVGwXxJ7rkxRY9+LqwW581Z7pPbHJlePyVrte6++fLuqRenb0xNvdyXThyr6ZDeubsJ6vqG7/becic3d/Ov9PYdDxcWnFv5ytDd+abGWUz2nw+YmTBweLWFW2q2+YVncu5UVS79EGLZ8rnVk9YVJ+Wmn+gomGT6z2adnnu2pI7G2ld0bXTqdn73szsvHxnwsDN84r3m555dbvqmt0eecC+NyHtq/o7qZnjVrf/bez5ksL5X7bOmvhp+ulpOnhaXGKYU/vO5qp9zxbvqxi2t2vbhx9Ofm1OcVX2Nxv+sFMWXz/Y7WTvH2qqc8f+fObImFE5Cxu2HXhj6u0Rb/19bGmsz4CCP8988kxW2cnXzw1LmpR2cNPR3BW/dFpybtqlTU/FLdldXhTrWzwpadO8kqv0RbYvv5uYdighb/WyC6PjE1YMbNF96trH8/ZOHjRt/4Xz6ZUFpbVD63qMu/Dxjw3sliXViVtbptQMwVbzx/VY//z6nF8v5WYuGpqwcemB4fE/9d0WW7cq5e6Qsva9X2uU8erAHw51iq1Z9livCbnf5B292n9mv+RTpqrvR3HL4/bcXjn+fv7gUQvuxpJjPWcd67hx4qWLyWv6n89ftybzl/HLn23fa9/FraPSqpunxPpe3pBdmTVu7dyLAyoLP8jdVd/rROL238u3zBzb74mLubnNu5bPSJ27rPupokZZKUmjy16dkjyouOqz5LTaDvWt07d9V9gybUHc0wW+8aWkk3lnV62vHLnyxZrc7YMXbemSUVfSrvpw0447bh5p3vPGzaOtMjrf+u7pzFm3jiVM3/F+RoMGkP4Pe+wSOaoFAAA=</data>
+        <length>1656</length>
+        <position>1</position>
+        <sys_attachment display_value="yg_co.gif" sys_id="19c87e092ff9d0100fd6d5072799b618">19c87e092ff9d0100fd6d5072799b618</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 23:00:42</sys_created_on>
+        <sys_id>d9c87e092ff9d0100fd6d5072799b618</sys_id>
+    </sys_attachment_doc>
+</record_update>
