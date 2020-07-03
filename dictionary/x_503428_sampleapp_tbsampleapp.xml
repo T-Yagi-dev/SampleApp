@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="tbSampleApp" max_length="40" name="x_503428_sampleapp_tbsampleapp" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Body" max_length="5000" name="fdbody" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Subject" max_length="500" name="fdsubject" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Subject" max_length="200" name="fdsubject" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="fdIcon" max_length="100" name="u_icon_1" type="icon"/>
     </element>
 </database>

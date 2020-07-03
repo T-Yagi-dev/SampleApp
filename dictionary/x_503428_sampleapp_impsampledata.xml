@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="impSampleData" max_length="40" name="x_503428_sampleapp_impsampledata" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=body" label="body" max_length="40" name="u_body" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=subject" label="subject" max_length="40" name="u_subject" type="string"/>
+    </element>
+</database>

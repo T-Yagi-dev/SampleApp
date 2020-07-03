@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source">
+    <sys_data_source action="DELETE">
+        <category/>
+        <connection_timeout>0</connection_timeout>
+        <connection_url>attachment://sys_data_source:4b54cb4d2fbdd0100fd6d5072799b6e3/sampledata.csv</connection_url>
+        <connection_url_parameters/>
+        <csv_delimiter/>
+        <database_name/>
+        <database_port/>
+        <discard_arrays>true</discard_arrays>
+        <expand_node_children>false</expand_node_children>
+        <file_path>sampledata.csv</file_path>
+        <file_retrieval_method>Attachment</file_retrieval_method>
+        <format>CSV</format>
+        <glide_keystore>false</glide_keystore>
+        <header_row>1</header_row>
+        <import_set_table_label/>
+        <import_set_table_name>x_503428_sampleapp_impsample</import_set_table_name>
+        <instance_name/>
+        <jdbc_password/>
+        <jdbc_server/>
+        <jdbc_user_name/>
+        <jpath_root_node/>
+        <last_run_database_field/>
+        <last_run_datetime/>
+        <ldap_target/>
+        <maximum_rows/>
+        <mid_server/>
+        <name>sampledata.csv (Uploaded)</name>
+        <oracle_port>1521</oracle_port>
+        <oracle_sid>orcl</oracle_sid>
+        <properties/>
+        <query>All Rows from Table</query>
+        <query_timeout>0</query_timeout>
+        <scp_authentication>Username and Password</scp_authentication>
+        <scp_password/>
+        <scp_port/>
+        <scp_server/>
+        <scp_user_name/>
+        <sheet_number>1</sheet_number>
+        <sql_statement/>
+        <ssh_keyfile_path/>
+        <sys_class_name>sys_data_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 23:51:19</sys_created_on>
+        <sys_id>4b54cb4d2fbdd0100fd6d5072799b6e3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sampledata.csv (Uploaded)</sys_name>
+        <sys_package display_value="SampleApp" source="x_503428_sampleapp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SampleApp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_scope>
+        <sys_update_name>sys_data_source_4b54cb4d2fbdd0100fd6d5072799b6e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-02 23:51:20</sys_updated_on>
+        <table_name/>
+        <type>File</type>
+        <use_integrated_authentication>false</use_integrated_authentication>
+        <use_last_run_datetime>false</use_last_run_datetime>
+        <xpath_root_node/>
+        <zipped>false</zipped>
+    </sys_data_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SampleApp">0dc8764d2f7dd0100fd6d5072799b6a9</application>
+        <file_path/>
+        <instance_id>6bbcb27bdbee97004f035d00cf96196b</instance_id>
+        <instance_name>dev61295</instance_name>
+        <name>sys_data_source_4b54cb4d2fbdd0100fd6d5072799b6e3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source"><sys_data_source action="INSERT_OR_UPDATE"><category/><connection_timeout>0</connection_timeout><connection_url>attachment://sys_data_source:4b54cb4d2fbdd0100fd6d5072799b6e3/sampledata.csv</connection_url><connection_url_parameters/><csv_delimiter/><database_name/><database_port/><discard_arrays>true</discard_arrays><expand_node_children>false</expand_node_children><file_path>sampledata.csv</file_path><file_retrieval_method>Attachment</file_retrieval_method><format>CSV</format><glide_keystore>false</glide_keystore><header_row>1</header_row><import_set_table_label/><import_set_table_name>x_503428_sampleapp_impsample</import_set_table_name><instance_name/><jdbc_password/><jdbc_server/><jdbc_user_name/><jpath_root_node/><last_run_database_field/><last_run_datetime/><ldap_target/><maximum_rows/><mid_server/><name>sampledata.csv (Uploaded)</name><oracle_port>1521</oracle_port><oracle_sid>orcl</oracle_sid><properties/><query>All Rows from Table</query><query_timeout>0</query_timeout><scp_authentication>Username and Password</scp_authentication><scp_password/><scp_port/><scp_server/><scp_user_name/><sheet_number>1</sheet_number><sql_statement/><ssh_keyfile_path/><sys_class_name>sys_data_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-02 23:51:19</sys_created_on><sys_id>4b54cb4d2fbdd0100fd6d5072799b6e3</sys_id><sys_mod_count>1</sys_mod_count><sys_name>sampledata.csv (Uploaded)</sys_name><sys_package display_value="SampleApp" source="x_503428_sampleapp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_package><sys_policy/><sys_scope display_value="SampleApp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_scope><sys_update_name>sys_data_source_4b54cb4d2fbdd0100fd6d5072799b6e3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-02 23:51:20</sys_updated_on><table_name/><type>File</type><use_integrated_authentication>false</use_integrated_authentication><use_last_run_datetime>false</use_last_run_datetime><xpath_root_node/><zipped>false</zipped></sys_data_source></record_update>]]></payload>
+        <payload_hash>-1554006748</payload_hash>
+        <record_name>sampledata.csv (Uploaded)</record_name>
+        <reverted_from/>
+        <source>81c8764d2f7dd0100fd6d5072799b6ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 23:51:20</sys_created_on>
+        <sys_id>df540bcd2fbdd0100fd6d5072799b68d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17311f11c160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-02 23:51:20</sys_updated_on>
+        <type>Data Source</type>
+        <update_guid>5b540bcd51bdd01041a0d56a22e7fd8d</update_guid>
+        <update_guid_history>5b540bcd51bdd01041a0d56a22e7fd8d:-1554006748,1f540bcd64bdd010bc2107d15326228c:-79634620</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-03 00:07:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_source">sys_data_source</sys_db_object>
+        <sys_id>0c4a2e11f7e0410a809e4080fbdbb0e4</sys_id>
+        <sys_metadata>4b54cb4d2fbdd0100fd6d5072799b6e3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sampledata.csv (Uploaded)</sys_name>
+        <sys_package display_value="SampleApp" source="x_503428_sampleapp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SampleApp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_scope>
+        <sys_scope_delete display_value="">eb49a43a2cac4d069c2c23ef38a8a571</sys_scope_delete>
+        <sys_update_name>sys_data_source_4b54cb4d2fbdd0100fd6d5072799b6e3</sys_update_name>
+        <sys_update_version display_value="sys_data_source_4b54cb4d2fbdd0100fd6d5072799b6e3">df540bcd2fbdd0100fd6d5072799b68d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-03 00:07:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

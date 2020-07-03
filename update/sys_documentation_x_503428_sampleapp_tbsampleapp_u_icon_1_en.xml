@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_icon_1" label="fdIcon" language="en" table="x_503428_sampleapp_tbsampleapp">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_icon_1</element>
+            <help/>
+            <hint/>
+            <label>fdIcon</label>
+            <language>en</language>
+            <name>x_503428_sampleapp_tbsampleapp</name>
+            <plural>fdIcons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-02 23:27:38</sys_created_on>
+            <sys_id>80fef6892fbdd0100fd6d5072799b69b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>fdIcon</sys_name>
+            <sys_package display_value="SampleApp" source="x_503428_sampleapp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SampleApp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_scope>
+            <sys_update_name>sys_documentation_x_503428_sampleapp_tbsampleapp_u_icon_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-02 23:27:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

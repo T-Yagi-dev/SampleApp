@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="DELETE">
+        <alt/>
+        <element>fdbody</element>
+        <name>x_503428_sampleapp_tbsampleapp</name>
+        <style>position</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 23:32:46</sys_created_on>
+        <sys_id>dccf36c92fbdd0100fd6d5072799b6f4</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_503428_sampleapp_tbsampleapp</sys_name>
+        <sys_package display_value="SampleApp" source="x_503428_sampleapp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SampleApp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_scope>
+        <sys_update_name>sys_ui_style_dccf36c92fbdd0100fd6d5072799b6f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-02 23:47:36</sys_updated_on>
+        <value>relative; top:10px;</value>
+    </sys_ui_style>
+    <sys_translated_text action="DELETE" query="documentkey=dccf36c92fbdd0100fd6d5072799b6f4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SampleApp">0dc8764d2f7dd0100fd6d5072799b6a9</application>
+        <file_path/>
+        <instance_id>6bbcb27bdbee97004f035d00cf96196b</instance_id>
+        <instance_name>dev61295</instance_name>
+        <name>sys_ui_style_dccf36c92fbdd0100fd6d5072799b6f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style"><sys_ui_style action="INSERT_OR_UPDATE"><alt/><element>fdbody</element><name>x_503428_sampleapp_tbsampleapp</name><style>position</style><sys_class_name>sys_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-07-02 23:32:46</sys_created_on><sys_id>dccf36c92fbdd0100fd6d5072799b6f4</sys_id><sys_mod_count>4</sys_mod_count><sys_name>x_503428_sampleapp_tbsampleapp</sys_name><sys_package display_value="SampleApp" source="x_503428_sampleapp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_package><sys_policy/><sys_scope display_value="SampleApp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_scope><sys_update_name>sys_ui_style_dccf36c92fbdd0100fd6d5072799b6f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-07-02 23:47:36</sys_updated_on><value>relative; top:10px;</value></sys_ui_style><sys_translated_text action="delete_multiple" query="documentkey=dccf36c92fbdd0100fd6d5072799b6f4"/></record_update>]]></payload>
+        <payload_hash>1096326050</payload_hash>
+        <record_name>x_503428_sampleapp_tbsampleapp</record_name>
+        <reverted_from/>
+        <source>81c8764d2f7dd0100fd6d5072799b6ac</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 23:47:36</sys_created_on>
+        <sys_id>e083cf4d2fbdd0100fd6d5072799b676</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17311edb12e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-02 23:47:36</sys_updated_on>
+        <type>Style</type>
+        <update_guid>6c83cf4d13bdd010f42c668609d31875</update_guid>
+        <update_guid_history>6c83cf4d13bdd010f42c668609d31875:1096326050,d8134f4d94bdd010d301e78d9101f45e:-79088827,0a824f4d67bdd01018c9c06dce7b5b59:209888173,705147c9f2bdd01059b93a653ebe6a19:-1887141932,d3100b89cfbdd0104e8020b2f95e148e:2112937034</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-02 23:48:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_style">sys_ui_style</sys_db_object>
+        <sys_id>14ea9dedd5854944ac1162b23e4a0010</sys_id>
+        <sys_metadata>dccf36c92fbdd0100fd6d5072799b6f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_503428_sampleapp_tbsampleapp</sys_name>
+        <sys_package display_value="SampleApp" source="x_503428_sampleapp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_package>
+        <sys_parent display_value="tbSampleApp">eacab6852fbdd0100fd6d5072799b62f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="SampleApp">0dc8764d2f7dd0100fd6d5072799b6a9</sys_scope>
+        <sys_scope_delete display_value="">eb49a43a2cac4d069c2c23ef38a8a571</sys_scope_delete>
+        <sys_update_name>sys_ui_style_dccf36c92fbdd0100fd6d5072799b6f4</sys_update_name>
+        <sys_update_version display_value="sys_ui_style_dccf36c92fbdd0100fd6d5072799b6f4">e083cf4d2fbdd0100fd6d5072799b676</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-02 23:48:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
